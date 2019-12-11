@@ -4,9 +4,9 @@
 
 ##### Homepage link: [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
 
-| **Package source:** | Tarball | Git | Node | Gem |
-|:-------------------:|:-------:|:---:|:----:|:---:|
-| **Status:**         |    -    |  -  |  + <br> (default)  |  –  |
+| **Package source:** | Source Tarball | Binary | Git | Node | Gem
+|:-------------------:|:--------------:|:------:|:---:|:----:|:---:|
+| **Status:**         |        -       |  -     |  -  |  + <br> (default)  |  –  |
 
 [Zplugin](https://github.com/zdharma/zplugin) can use the NPM package registry
 to automatically:
