@@ -21,7 +21,7 @@
     "bugs": {
         "url": "https://github.com/thlorenz/doctoc/issues"
     },
-    "version" : "1.4.0",
+    "version": "1.4.1",
     "contributors": [],
     "dependencies": {},
     "deprecated": false,
@@ -48,7 +48,7 @@
         },
         "zplugin-ices": {
             "default": {
-                "git" : "",
+                "git": "",
                 "lucid": "",
                 "as": "null",
                 "node": "!doctoc",
