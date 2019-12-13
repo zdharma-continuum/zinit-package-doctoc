@@ -1,10 +1,8 @@
 # thlorenz/doctoc as a Zsh package
 
-##### NPM link: [https://www.npmjs.com/package/zsh-doctoc](https://www.npmjs.com/package/zsh-doctoc)
-
 ##### Homepage link: [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
 
-| **Package source:** | Source Tarball | Binary | Git | Node | Gem
+| **Package source:** | Source Tarball | Binary | Git | Node | Gem |
 |:-------------------:|:--------------:|:------:|:---:|:----:|:---:|
 | **Status:**         |        -       |  -     |  -  |  + <br> (default)  |  –  |
 
