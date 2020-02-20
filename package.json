@@ -53,7 +53,8 @@
                 "as": "null",
                 "node": "!doctoc",
                 "sbin": "n:node_modules/.bin/doctoc",
-                "atpull": "%atclone"
+                "atpull": "%atclone",
+                "nocompile": ""
             }
         }
     }
