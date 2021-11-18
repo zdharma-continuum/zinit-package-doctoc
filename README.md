@@ -1,3 +1,7 @@
+# Deprecated
+
+❗ All zinit-packages have been migrated to https://github.com/zdharma-continuum/zinit-packages
+You'll find the source for this here package in https://github.com/zdharma-continuum/zinit-packages/tree/HEAD/doctoc
 # thlorenz/doctoc as a Zsh package
 
 ##### Homepage link: [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
